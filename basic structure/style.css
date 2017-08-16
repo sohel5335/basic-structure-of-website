@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+.header-area{
+    background-color: red;
+    text-align: center;
+    overflow: hidden;
+    color: white;
+}
+.middle-ara{
+    background-color: white;
+}
+.left-area{
+    background-color: green;
+    width: 20%;
+    float: left;
+   
+    height: 400px;
+}
+    
+
+.containted-area{
+    background-color: coral;
+    float: left;
+    width: 60%;
+     overflow: hidden;
+     height: 400px;
+    
+}
+
+.right-area{
+    background-color: green;
+    height: 400px;
+    width: 20%
+    overflow: hidden;
+   
+}
+
+.footer-area{
+     height: 100px;
+    background-color:skyblue;
+}
